@@ -16,6 +16,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-# App Countries Using https://restcountries.com/ version 2.
+## App Countries Using https://restcountries.com/ version 2.
+## Vue 3, Composition API, Suspense, <script setup>
 
 - Live URL: [Live URL](https://osvaldomcc.github.io/countries-app/)
