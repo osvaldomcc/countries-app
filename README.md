@@ -4,5 +4,9 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ## App Countries Using https://restcountries.com/ version 2.
 ## Vue 3, Composition API, Suspense, <script setup>
+  
+### Screenshot
+
+![](./design/desktop-design-home-dark.jpg)
 
 - Live URL: [Live URL](https://osvaldomcc.github.io/countries-app/)
