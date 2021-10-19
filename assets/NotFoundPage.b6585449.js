@@ -1,0 +1,1 @@
+import{_ as e}from"./index.84029d46.js";import{o,c as r}from"./vendor.956533d3.js";const n={};function c(s,t){return o(),r("h1",null,"No se Encontr\xF3 su b\xFAsqueda")}var _=e(n,[["render",c]]);export{_ as default};
