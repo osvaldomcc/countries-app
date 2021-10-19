@@ -1,0 +1,19 @@
+{
+  "name": "countries",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^6.5.3",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
